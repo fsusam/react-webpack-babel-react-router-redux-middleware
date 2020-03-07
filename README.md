@@ -29,5 +29,8 @@ npm start
 # Note
 if HMR is not working , try start npm with sudo (for linux)
 
+# Upgrade nodejs for windows
+Download the latest Node.js release from its official download page and install the new Node.js release.
+
 
 
